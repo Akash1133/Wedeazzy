@@ -1,0 +1,56 @@
+{
+  "team": {
+    "c": false,
+    "r": false,
+    "u": true,
+    "d": false
+  },
+  "company": {
+    "c": true,
+    "r": true,
+    "u": true,
+    "d": true
+  },
+  "responseTeam": {
+    "c": true,
+    "r": true,
+    "u": true,
+    "d": true
+  },
+  "response": {
+    "c": true,
+    "r": true,
+    "u": true,
+    "d": true
+  },
+  "responseRole": {
+    "c": true,
+    "r": true,
+    "u": true,
+    "d": true
+  },
+  "role": {
+    "c": true,
+    "r": true,
+    "u": true,
+    "d": true
+  },
+  "user": {
+    "c": true,
+    "r": true,
+    "u": true,
+    "d": true
+  },
+  "group": {
+    "c": true,
+    "r": true,
+    "u": true,
+    "d": true
+  },
+  "userGroup": {
+    "c": true,
+    "r": true,
+    "u": true,
+    "d": true
+  }
+}

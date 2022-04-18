@@ -1,0 +1,20 @@
+{
+  "team": {
+    "c": false,
+    "r": false,
+    "u": true,
+    "d": false
+  },
+  "company": {
+    "c": false,
+    "r": true,
+    "u": false,
+    "d": false
+  },
+  "responseTeam": {
+    "c": false,
+    "r": false,
+    "u": false,
+    "d": false
+  }
+}
