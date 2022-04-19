@@ -26,9 +26,9 @@ from rest_framework.documentation import include_docs_urls
 
 schema_view = get_schema_view(
     openapi.Info(
-        title="Weddingeazy",
+        title="Wedeazzy",
         default_version='v0.1.0',
-        description="Weddingeazy",
+        description="Wedeazzy",
         terms_of_service="https://www.google.com/policies/terms/",
         contact=openapi.Contact(email="contact@snippets.local"),
         license=openapi.License(name="Test License"),
@@ -42,7 +42,7 @@ urlpatterns = [
     path("accounts/", include("accounts.urls")),
 
 
-    path('', include_docs_urls(title='Weddingeazy')),
+    path('', include_docs_urls(title='Wedeazzy')),
     path('admin/', admin.site.urls),
     path('swag/', schema_view.without_ui(cache_timeout=0), name='schema-json'),
     path('docs/',
